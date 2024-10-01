@@ -9,9 +9,9 @@ from telebot import TeleBot, apihelper
 
 load_dotenv()
 
-PRACTICUM_TOKEN: str | None = os.getenv('PRACTICUM_TOKEN')
-TELEGRAM_TOKEN: str | None = os.getenv('TELEGRAM_TOKEN')
-TELEGRAM_CHAT_ID: str | None = os.getenv('TELEGRAM_CHAT_ID')
+PRACTICUM_TOKEN: str = os.getenv('PRACTICUM_TOKEN')
+TELEGRAM_TOKEN: str = os.getenv('TELEGRAM_TOKEN')
+TELEGRAM_CHAT_ID: str = os.getenv('TELEGRAM_CHAT_ID')
 
 RETRY_PERIOD: int = 600
 ENDPOINT = 'https://practicum.yandex.ru/api/user_api/homework_statuses/'
