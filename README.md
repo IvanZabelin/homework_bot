@@ -69,5 +69,5 @@
 ## Автор
 
 [Ivan Zabelin]  
-GitHub: [ссылка на ваш профиль](https://github.com/ваш-логин)
+GitHub: [ссылка на ваш профиль](https://github.com/IvanZabelin)
 
