@@ -20,7 +20,7 @@
 1. Склонируйте репозиторий и перейдите в него в командной строке:
 
     ```bash
-    git clone git@github.com:ваш-логин/homework_bot.git
+    git clone git@github.com:IvanZabelin/homework_bot.git
     cd homework_bot
     ```
 
